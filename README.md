@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zomp.ryan@gmail.com**
 
-- ⚡ Fun fact **I love rock climbing**
+- ⚡ Fun fact **I recently owned a small construction business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
