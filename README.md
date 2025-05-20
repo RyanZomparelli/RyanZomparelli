@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript and Software engineering through TripleTen**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **zomp.ryan@gmail.com**
 
