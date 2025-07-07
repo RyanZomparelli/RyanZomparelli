@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Spots web app](https://github.com/RyanZomparelli/se_project_spots)
 
-- 🌱 I’m currently learning **Javascript and Software engineering through TripleTen**
+- 🌱 I’m currently learning **React** as part of my software engineering journey through TripleTen
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **prototypes in JavaScript**
 
 - 📫 How to reach me **zomp.ryan@gmail.com**
 
