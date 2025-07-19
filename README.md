@@ -12,7 +12,10 @@
 - 💬 Ask me about **prototypes in JavaScript**
 
 - 📫 How to reach me **zomp.ryan@gmail.com**
-  **https://www.linkedin.com/in/ryan-zomparelli/**
+- <a href="https://www.linkedin.com/in/ryan-zomparelli/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />
+  Linkedin
+</a>
 
 - ⚡ Fun fact **I recently owned a small construction business**
 
