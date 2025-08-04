@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanzomparelli" alt="ryanzomparelli" /></a> </p>
 
-- 🔭 I’m currently working on [Spots web app](https://github.com/RyanZomparelli/se_project_spots)
+- 🔭 I’m currently working on [WTWR - My first React app!]([(https://github.com/RyanZomparelli/se_project_react)])
 
 - 🌱 I’m currently learning **React** as part of my software engineering journey through TripleTen
 
