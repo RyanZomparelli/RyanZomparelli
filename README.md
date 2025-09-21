@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WTWR – Back-end](https://github.com/RyanZomparelli/se_project_react)
 
-- 🌱 I’m currently learning **React** as part of my software engineering journey through TripleTen
+- 🌱 I’m currently learning Node.js, express.js, Mongoose, and MongoDB as part of my software engineering journey through TripleTen
 
 - 💬 Ask me about **prototypes in JavaScript**
 
