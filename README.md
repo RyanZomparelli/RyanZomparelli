@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Node.js, express.js, Mongoose, and MongoDB as part of my software engineering journey through TripleTen
 
-- 💬 Ask me about **prototypes in JavaScript**
+- 💬 Ask me anything about **JavaScript**
 
 - 📫 How to reach me **zomp.ryan@gmail.com**
 
