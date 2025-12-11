@@ -44,3 +44,10 @@ My goal is to become a Full-Stack Web Developer who writes clean, maintainable c
 💼 [LinkedIn](https://www.linkedin.com/in/ryan-zomparelli/)
 
 🌐 Portfolio
+
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanzomparelli&label=Profile%20views&color=0e75b6&style=flat" alt="ryanzomparelli" /> </p>
