@@ -1,43 +1,62 @@
 👋 Hi, I’m Ryan Zomparelli
 
-🎓 Software Engineering Student @ TripleTen
-💻 Full-Stack Developer (MERN Stack)
+🎓 Software Engineering Student & Extern @ TripleTen  
+💻 Full-Stack Developer (MERN + TypeScript/GraphQL)  
 📍 Baltimore, MD
+
+---
 
 🚀 **About Me**
 
-I’m a passionate and detail-oriented developer focused on building responsive, user-friendly, and scalable web applications.
-Currently, I’m sharpening my skills in Node.js, Express, MongoDB, and React, while developing real-world full-stack projects through the TripleTen Software Engineering program.
+I’m a detail-oriented developer focused on building responsive, user-friendly, and scalable web applications.
 
-My goal is to become a Full-Stack Web Developer who writes clean, maintainable code and builds meaningful software.
+Right now I’m:
 
-💡 Interested in API design, cloud deployment, and full-stack architecture
+- Completing TripleTen’s Software Engineering program  
+- Starting a real-world **software engineering externship** building an internal dashboard using **React, TypeScript, Tailwind, Keystone, GraphQL, and MySQL**
 
-🧠 **Currently Learning**
+My goal is to become a full-stack web developer who writes clean, maintainable code and ships meaningful products that solve real problems.
 
- - Node.js + Express.js (back-end fundamentals)
+💡 Interested in: API design, full-stack architecture, cloud deployment.
 
- - RESTful APIs & CRUD operations
+---
 
- - MongoDB & Mongoose (database modeling)
+🧠 **Currently Learning & Working With**
 
- - Authentication & Authorization (JWT)
+- **Frontend**
+  - React + **TypeScript**
+  - Tailwind CSS
+  - Storybook for UI components
 
- - Cloud deployment & CI/CD basics
+- **Backend**
+  - Keystone (Node.js framework)
+  - GraphQL APIs
+  - MySQL & relational data modeling
+
+- **Core Foundations**
+  - Node.js + Express
+  - RESTful APIs & CRUD operations
+  - MongoDB & Mongoose
+  - Authentication & Authorization (JWT)
+  - Cloud deployment & CI/CD basics
+
+---
 
 🧩 **Tech Stack**
 
- - Frontend:
-    HTML5 • CSS3 • JavaScript (ES6+) • React • Vite
+- **Frontend:**  
+  HTML5 • CSS3 • JavaScript (ES6+) • React • TypeScript • Tailwind CSS • Vite • Storybook
 
- - Backend:
-    Node.js • Express.js • REST APIs
+- **Backend:**  
+  Node.js • Express.js • Keystone • REST APIs • GraphQL
 
- - Database:
-    MongoDB • Mongoose
+- **Database:**  
+  MongoDB • Mongoose • MySQL
 
- - Tools & Workflow:
-    Git • GitHub • npm • Figma • Postman • VS Code
+- **Tools & Workflow:**  
+  Git • GitHub • npm • Postman • Figma • VS Code
+
+---
 
 💬 **Let’s Connect**
 
