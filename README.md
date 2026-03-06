@@ -1,6 +1,6 @@
 👋 Hi, I’m Ryan Zomparelli
 
-🎓 Software Engineering Student & Extern @ TripleTen  
+🎓 Software Engineering Extern @ TripleTen  
 💻 Full-Stack Developer (MERN + TypeScript/GraphQL)  
 📍 Baltimore, MD
 
@@ -12,10 +12,7 @@ I’m a detail-oriented developer focused on building responsive, user-friendly,
 
 Right now I’m:
 
-- Completing TripleTen’s Software Engineering program  
-- Starting a real-world **software engineering externship** building an internal dashboard using **React, TypeScript, Tailwind, Keystone, GraphQL, and MySQL**
-
-My goal is to become a full-stack web developer who writes clean, maintainable code and ships meaningful products that solve real problems.
+- Completing a Software Engineering Externship at TripleTen - Building an internal dashboard using **React, TypeScript, Tailwind, Keystone, GraphQL, and MySQL**
 
 💡 Interested in: API design, full-stack architecture, cloud deployment.
 
