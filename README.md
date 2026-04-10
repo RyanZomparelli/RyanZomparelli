@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ryan Zomparelli
 
 🎓 TripleTen Software Engineering Graduate  
-💻 Full-Stack Developer (MERN + TypeScript/GraphQL)  
+💻 Full-Stack Developer
 📍 Baltimore, MD  
 
 ---
