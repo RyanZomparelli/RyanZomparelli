@@ -1,24 +1,15 @@
 # 👋 Hi, I’m Ryan Zomparelli
 
-🎓 TripleTen Software Engineering Graduate  
-💻 Full-Stack Developer
+Full-Stack Developer
 📍 Baltimore, MD  
 
 ---
 
-## 🚀 About Me
-
-I’m a full-stack developer focused on building responsive, user-friendly, and scalable web applications.
-
-I recently completed a Software Engineering Externship at TripleTen, where I contributed to an internal dashboard using **React, TypeScript, Tailwind CSS, Keystone, GraphQL, and MySQL**.
-
-My background includes both modern frontend development and backend API work, and I enjoy thinking through application architecture, clean UI, and practical problem-solving across the stack.
-
-💡 **Interests:** API design, full-stack architecture, cloud deployment, and building reliable user-centered software.
+I build responsive, user-focused web applications across the stack using JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, and related technologies.
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 
 ### Frontend
 - React
@@ -52,7 +43,7 @@ My background includes both modern frontend development and backend API work, an
 
 ---
 
-## 🧩 Featured Skills
+## Featured Skills
 
 - Building full-stack MERN applications
 - Designing and consuming RESTful APIs
@@ -64,16 +55,7 @@ My background includes both modern frontend development and backend API work, an
 
 ---
 
-## 🌱 Currently Focused On
-
-- Strengthening full-stack engineering skills
-- Deepening backend and system design knowledge
-- Building polished, production-style projects
-- Growing into a professional software engineering role
-
----
-
-## 💼 Connect With Me
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-zomparelli/)
 - Portfolio: 
